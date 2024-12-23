@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Céline</h1>
 <h3 align="center">A French frontend developer living in The Netherlands</h3>
 
-- 🔭 I’m currently working on two voluntary projects. The first one is with the tech community [Chingu](https://github.com/chingu-voyages/v47-tier3-team-27) , and the second one with [The Collab Lab](https://github.com/the-collab-lab/tcl-71-smart-shopping-list).
 
 - 👨‍💻 All of my projects are available at [https://celine-le-corvaisier.vercel.app/](https://celine-le-corvaisier.vercel.app/)
 
 - 📫 Connect with me [on LinkedIn](https://www.linkedin.com/in/celinelecorvaisier/ "Céline Le Corvaisier - LinkedIn").
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
